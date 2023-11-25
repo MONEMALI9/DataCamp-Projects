@@ -5,6 +5,15 @@ This is an introduction to DataCamp projects. DataCamp projects allow you to app
 In each project, you will carry out an end-to-end analysis on real-world tasks using real-world tools and workflows.
 In doing so, you will learn how to work with Jupyter notebooks: an open-source web application that is great for interactive data analysis.
 
+## Guided Project
+In this gentle introduction to DataCamp projects, we will walk you through the project interface!
+
+## Python
+Use Python to build a project that has a specific solution, with guided tasks and real-time automated code checks
+
+## SQL
+Use SQL to build a project that has a specific solution, with guided tasks and real-time automated code checks
+
 ## Project Tasks
 1. This is a Jupyter notebook!
 2. Put any code in code cells
